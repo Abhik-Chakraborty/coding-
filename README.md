@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 ## Sorting
 |  |
