@@ -13,6 +13,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0283-move-zeroes) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhik-Chakraborty/coding-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhik-Chakraborty/coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -53,6 +54,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Abhik-Chakraborty/coding-/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0344-reverse-string) |
 ## String
 |  |
