@@ -4,6 +4,7 @@ public:
     
     int n = nums.size();
     
+    //summation of n natural numbers.
     int sum = (n * (n + 1)) / 2;
 
     //Summation of all array elements:
