@@ -1,35 +1,36 @@
-# Find Duplicates in an Array
+# Rotate Array to the Right by k Steps
 
 ## Problem Statement
 
-Given an array `arr` of size `n`, which contains elements in the range from `0` to `n-1`, find all the elements occurring more than once in the given array. Return the answer in ascending order. If no such elements are found, return a list containing `[-1]`.
+Given an integer array `nums`, rotate the array to the right by `k` steps, where `k` is non-negative.
 
-### Examples
+### Example 1
 
 **Input:**  
-`n = 4`, `arr[] = [0, 3, 1, 2]`  
+`nums = [1, 2, 3, 4, 5, 6, 7], k = 3`  
 **Output:**  
-`-1`  
+`[5, 6, 7, 1, 2, 3, 4]`  
 **Explanation:**  
-There is no repeating element in the array. Therefore, the output is `-1`.
+- Rotate 1 step to the right: `[7, 1, 2, 3, 4, 5, 6]`  
+- Rotate 2 steps to the right: `[6, 7, 1, 2, 3, 4, 5]`  
+- Rotate 3 steps to the right: `[5, 6, 7, 1, 2, 3, 4]`
 
 ---
 
+### Example 2
+
 **Input:**  
-`n = 5`, `arr[] = [2, 3, 1, 2, 3]`  
+`nums = [-1, -100, 3, 99], k = 2`  
 **Output:**  
-`2 3`  
+`[3, 99, -1, -100]`  
 **Explanation:**  
-`2` and `3` occur more than once in the given array.
+- Rotate 1 step to the right: `[99, -1, -100, 3]`  
+- Rotate 2 steps to the right: `[3, 99, -1, -100]`
 
 ---
 
-### Expected Time Complexity
-- O(n)
+## Constraints
 
-### Expected Auxiliary Space
-- O(n)
-
-### Constraints
-- `1 <= n <= 10^5`
-- `0 <= arr[i] <= 10^5`, for each valid `i`
+- `1 <= nums.length <= 10^5`
+- `-2^31 <= nums[i] <= 2^31 - 1`
+- `0 <= k <= 10^5`
