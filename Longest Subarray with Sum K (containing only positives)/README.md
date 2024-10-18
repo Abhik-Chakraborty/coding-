@@ -1,4 +1,4 @@
-# Longest Subarray with Sum K (Containing Only Positives)
+# Longest Subarray with Sum K 
 
 ## Problem Statement
 
