@@ -77,6 +77,7 @@
 | [0283-move-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
+| [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0058-length-of-last-word](https://github.com/Abhik-Chakraborty/coding-/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
+| [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0812-rotate-string) |
 ## String Matching
 |  |
@@ -100,6 +102,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhik-Chakraborty/coding-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0053-maximum-subarray) |
+| [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |
 | ------- |
