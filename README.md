@@ -101,6 +101,7 @@
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/1078-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
