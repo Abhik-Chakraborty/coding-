@@ -63,6 +63,7 @@
 | [0066-plus-one](https://github.com/Abhik-Chakraborty/coding-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0237-delete-node-in-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
