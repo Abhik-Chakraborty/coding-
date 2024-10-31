@@ -4,7 +4,7 @@ using namespace std;
 string expandString(const string& s) {
     string result;
 
-    for (char c : s) {
+    for (int i = 0; i < s.size(); i++) {
         if (isdigit(c)) { // Check if the character is a digit
             int repeatCount = c - '0'; // Convert character digit to integer
             result += string(repeatCount, '1'); // Append '1' repeatCount times
