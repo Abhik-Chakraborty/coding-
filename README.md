@@ -54,6 +54,7 @@
 | [0001-two-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Abhik-Chakraborty/coding-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Abhik-Chakraborty/coding-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
@@ -77,6 +78,7 @@
 | [0075-sort-colors](https://github.com/Abhik-Chakraborty/coding-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Abhik-Chakraborty/coding-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Abhik-Chakraborty/coding-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -104,6 +106,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Abhik-Chakraborty/coding-/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Abhik-Chakraborty/coding-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
