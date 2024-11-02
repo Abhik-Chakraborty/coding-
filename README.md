@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/Abhik-Chakraborty/coding-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Abhik-Chakraborty/coding-/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
@@ -58,6 +59,7 @@
 | [0217-contains-duplicate](https://github.com/Abhik-Chakraborty/coding-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhik-Chakraborty/coding-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0560-subarray-sum-equals-k) |
@@ -82,6 +84,7 @@
 | [0217-contains-duplicate](https://github.com/Abhik-Chakraborty/coding-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abhik-Chakraborty/coding-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Two Pointers
@@ -147,6 +150,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,4 +191,20 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
