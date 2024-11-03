@@ -35,6 +35,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhik-Chakraborty/coding-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhik-Chakraborty/coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhik-Chakraborty/coding-/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2350-find-closest-number-to-zero](https://github.com/Abhik-Chakraborty/coding-/tree/master/2350-find-closest-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
