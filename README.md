@@ -104,6 +104,7 @@
 | [0283-move-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Abhik-Chakraborty/coding-/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhik-Chakraborty/coding-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -118,6 +119,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Abhik-Chakraborty/coding-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0812-rotate-string) |
@@ -139,6 +141,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Abhik-Chakraborty/coding-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhik-Chakraborty/coding-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |
