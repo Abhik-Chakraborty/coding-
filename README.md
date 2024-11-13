@@ -35,6 +35,7 @@
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Abhik-Chakraborty/coding-/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhik-Chakraborty/coding-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhik-Chakraborty/coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhik-Chakraborty/coding-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -172,6 +173,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Abhik-Chakraborty/coding-/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
