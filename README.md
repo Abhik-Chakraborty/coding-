@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Abhik-Chakraborty/coding-/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Abhik-Chakraborty/coding-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Abhik-Chakraborty/coding-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0074-search-a-2d-matrix) |
@@ -169,6 +170,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhik-Chakraborty/coding-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
@@ -204,6 +206,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Abhik-Chakraborty/coding-/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Abhik-Chakraborty/coding-/tree/master/0412-fizz-buzz) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhik-Chakraborty/coding-/tree/master/2271-rearrange-array-elements-by-sign) |
