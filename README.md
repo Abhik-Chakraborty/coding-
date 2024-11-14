@@ -83,6 +83,7 @@
 | [0066-plus-one](https://github.com/Abhik-Chakraborty/coding-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhik-Chakraborty/coding-/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Abhik-Chakraborty/coding-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Abhik-Chakraborty/coding-/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Abhik-Chakraborty/coding-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Abhik-Chakraborty/coding-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abhik-Chakraborty/coding-/tree/master/2427-first-letter-to-appear-twice) |
 ## Sorting
@@ -254,4 +256,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0387-first-unique-character-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Abhik-Chakraborty/coding-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
