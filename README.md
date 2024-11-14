@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhik-Chakraborty/coding-/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Abhik-Chakraborty/coding-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Abhik-Chakraborty/coding-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0073-set-matrix-zeroes) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhik-Chakraborty/coding-/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Abhik-Chakraborty/coding-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abhik-Chakraborty/coding-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhik-Chakraborty/coding-/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0189-rotate-array) |
@@ -166,6 +168,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Abhik-Chakraborty/coding-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
