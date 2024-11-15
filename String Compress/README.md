@@ -30,11 +30,12 @@ A single line representing the compressed string as specified in the problem.
 ## Example
 
 ### Sample Input 1
+aabccccc
 
 
 ### Sample Output 1
+a2b1c5
 
----
 
 ## Explanation
 
