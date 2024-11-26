@@ -44,6 +44,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhik-Chakraborty/coding-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhik-Chakraborty/coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhik-Chakraborty/coding-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -88,6 +89,7 @@
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abhik-Chakraborty/coding-/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
@@ -102,6 +104,7 @@
 | [0231-power-of-two](https://github.com/Abhik-Chakraborty/coding-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Abhik-Chakraborty/coding-/tree/master/0412-fizz-buzz) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -213,6 +216,7 @@
 | [0724-find-pivot-index](https://github.com/Abhik-Chakraborty/coding-/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
 |  |
@@ -229,6 +233,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Abhik-Chakraborty/coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
