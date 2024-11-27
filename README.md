@@ -90,6 +90,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhik-Chakraborty/coding-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abhik-Chakraborty/coding-/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
@@ -178,6 +179,7 @@
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/1078-remove-outermost-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhik-Chakraborty/coding-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Abhik-Chakraborty/coding-/tree/master/1894-merge-strings-alternately) |
@@ -234,6 +236,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhik-Chakraborty/coding-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Tree
 |  |
