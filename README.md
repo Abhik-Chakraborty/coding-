@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Abhik-Chakraborty/coding-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhik-Chakraborty/coding-/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Abhik-Chakraborty/coding-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -299,6 +301,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Abhik-Chakraborty/coding-/tree/master/0011-container-with-most-water) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
