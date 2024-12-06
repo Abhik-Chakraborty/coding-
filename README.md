@@ -38,6 +38,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhik-Chakraborty/coding-/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -139,6 +140,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhik-Chakraborty/coding-/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Two Pointers
@@ -167,6 +169,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Abhik-Chakraborty/coding-/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/Abhik-Chakraborty/coding-/tree/master/1894-merge-strings-alternately) |
@@ -308,6 +311,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhik-Chakraborty/coding-/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
