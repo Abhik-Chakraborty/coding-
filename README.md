@@ -45,6 +45,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Abhik-Chakraborty/coding-/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhik-Chakraborty/coding-/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0890-lemonade-change](https://github.com/Abhik-Chakraborty/coding-/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
@@ -312,6 +313,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhik-Chakraborty/coding-/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Abhik-Chakraborty/coding-/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
