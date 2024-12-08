@@ -15,6 +15,7 @@
 | [0048-rotate-image](https://github.com/Abhik-Chakraborty/coding-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Abhik-Chakraborty/coding-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Abhik-Chakraborty/coding-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Abhik-Chakraborty/coding-/tree/master/0074-search-a-2d-matrix) |
@@ -223,6 +224,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Abhik-Chakraborty/coding-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Abhik-Chakraborty/coding-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Abhik-Chakraborty/coding-/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Abhik-Chakraborty/coding-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhik-Chakraborty/coding-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0392-is-subsequence) |
@@ -315,6 +317,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhik-Chakraborty/coding-/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Abhik-Chakraborty/coding-/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Abhik-Chakraborty/coding-/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
