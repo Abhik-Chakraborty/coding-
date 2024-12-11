@@ -41,6 +41,7 @@
 | [0283-move-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Abhik-Chakraborty/coding-/tree/master/0485-max-consecutive-ones) |
@@ -74,6 +75,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abhik-Chakraborty/coding-/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhik-Chakraborty/coding-/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -99,6 +101,7 @@
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhik-Chakraborty/coding-/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhik-Chakraborty/coding-/tree/master/0451-sort-characters-by-frequency) |
@@ -147,6 +150,7 @@
 | [0268-missing-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhik-Chakraborty/coding-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhik-Chakraborty/coding-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -176,6 +180,7 @@
 | [0283-move-zeroes](https://github.com/Abhik-Chakraborty/coding-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Abhik-Chakraborty/coding-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Abhik-Chakraborty/coding-/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
