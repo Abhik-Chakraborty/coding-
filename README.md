@@ -63,6 +63,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhik-Chakraborty/coding-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2350-find-closest-number-to-zero](https://github.com/Abhik-Chakraborty/coding-/tree/master/2350-find-closest-number-to-zero) |
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abhik-Chakraborty/coding-/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
