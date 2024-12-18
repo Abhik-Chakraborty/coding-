@@ -4,32 +4,32 @@
  * objective : Find the longest subarray wiht sum <= 14;
  * output : 3 
  * 
- * BRUTE FORCE METHOD : Generate all subarrays : nested for loops 
+ * Better method : using 2 pointers (left pointer and right pointer)
  */
-
 #include<bits/stdc++.h>
 using namespace std;
 
 int maxSubarray(vector<int> arr, int k){
-    int maxLen = 0;
     int sum = 0;
-    for(int i = 0; i < arr.size(); i++){
-        for(int j = i; j < arr.size(); j++){
-            sum += arr[j];
-            if(sum <= k){
-                maxLen = max(maxLen, j-i+1);
-            }
-            else if(sum > k) {
-                break;
-            }
+    int maxLen = 0;
+    int i = 0;
+    int j = 0;
+    while(j < arr.size()){
+        sum  += arr[j];
+        if(sum <= k){
+            maxLen = max(maxLen, j - i + 1);
+            j++;
+        }
+        else{
+            sum -= arr[i];
+            i++;
         }
     }
     return maxLen;
 }
 
-
-
 int main() {
+
     vector<int> arr = {2, 5, 1, 7, 10};
     int k = 14;
 
