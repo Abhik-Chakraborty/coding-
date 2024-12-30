@@ -142,6 +142,7 @@
 | [0007-reverse-integer](https://github.com/Abhik-Chakraborty/coding-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Abhik-Chakraborty/coding-/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Abhik-Chakraborty/coding-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abhik-Chakraborty/coding-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhik-Chakraborty/coding-/tree/master/0067-add-binary) |
@@ -155,6 +156,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Abhik-Chakraborty/coding-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Abhik-Chakraborty/coding-/tree/master/0231-power-of-two) |
