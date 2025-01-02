@@ -69,6 +69,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Abhik-Chakraborty/coding-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Abhik-Chakraborty/coding-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhik-Chakraborty/coding-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhik-Chakraborty/coding-/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -133,6 +134,7 @@
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhik-Chakraborty/coding-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abhik-Chakraborty/coding-/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/2486-most-frequent-even-element) |
@@ -185,6 +187,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhik-Chakraborty/coding-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhik-Chakraborty/coding-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Abhik-Chakraborty/coding-/tree/master/0455-assign-cookies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -224,6 +227,7 @@
 | [0457-circular-array-loop](https://github.com/Abhik-Chakraborty/coding-/tree/master/0457-circular-array-loop) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/0908-middle-of-the-linked-list) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Abhik-Chakraborty/coding-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Abhik-Chakraborty/coding-/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/Abhik-Chakraborty/coding-/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhik-Chakraborty/coding-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
