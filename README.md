@@ -376,6 +376,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0543-diameter-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -394,6 +395,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0543-diameter-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Simulation
 |  |
@@ -512,4 +514,5 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhik-Chakraborty/coding-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/Abhik-Chakraborty/coding-/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
