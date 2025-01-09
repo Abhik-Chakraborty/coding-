@@ -11,20 +11,48 @@
  */
 class Solution {
 public:
-    int height(TreeNode* root, int &diameter){
-        if(root == NULL){
+    int height(TreeNode* node) {
+        if (node == NULL) {
             return 0;
         }
-        int lh = height(root->left,diameter);
-        int rh = height(root->right,diameter);
-        diameter = max(diameter, lh + rh);
 
-        return max(lh, rh) +1;
+        int leftHeight = height(node->left);
+        int rightHeight = height(node->right);
+        return 1 + max(leftHeight, rightHeight);
     }
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        int diameter = 0;
-        height(root, diameter);
-        return diameter;
+        if (root == NULL) {
+        return 0;
+        }
+
+        int maxDiameter = 0;
+
+
+        queue<TreeNode*> nodeQueue;
+        nodeQueue.push(root);
+
+        while (!nodeQueue.empty()) {
+            TreeNode* currentNode = nodeQueue.front();
+            nodeQueue.pop();
+
+
+            int leftHeight = height(currentNode->left);
+            int rightHeight = height(currentNode->right);
+
+
+            int currentDiameter = leftHeight + rightHeight;
+            maxDiameter = max(maxDiameter, currentDiameter);
+
+
+            if (currentNode->left) {
+                nodeQueue.push(currentNode->left);
+            }
+            if (currentNode->right) {
+                nodeQueue.push(currentNode->right);
+            }
+        }
+
+        return maxDiameter;
     }
 };
