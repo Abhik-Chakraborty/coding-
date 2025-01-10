@@ -66,6 +66,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhik-Chakraborty/coding-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0890-lemonade-change](https://github.com/Abhik-Chakraborty/coding-/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Abhik-Chakraborty/coding-/tree/master/0907-koko-eating-bananas) |
+| [0952-word-subsets](https://github.com/Abhik-Chakraborty/coding-/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhik-Chakraborty/coding-/tree/master/1046-max-consecutive-ones-iii) |
@@ -141,6 +142,7 @@
 | [0457-circular-array-loop](https://github.com/Abhik-Chakraborty/coding-/tree/master/0457-circular-array-loop) |
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhik-Chakraborty/coding-/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/Abhik-Chakraborty/coding-/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhik-Chakraborty/coding-/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Abhik-Chakraborty/coding-/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/1370-count-number-of-nice-subarrays) |
@@ -277,6 +279,7 @@
 | [0500-keyboard-row](https://github.com/Abhik-Chakraborty/coding-/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/Abhik-Chakraborty/coding-/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/Abhik-Chakraborty/coding-/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhik-Chakraborty/coding-/tree/master/1078-remove-outermost-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhik-Chakraborty/coding-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1524-string-matching-in-an-array](https://github.com/Abhik-Chakraborty/coding-/tree/master/1524-string-matching-in-an-array) |
