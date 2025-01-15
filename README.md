@@ -185,6 +185,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Abhik-Chakraborty/coding-/tree/master/0287-find-the-duplicate-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Abhik-Chakraborty/coding-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2427-first-letter-to-appear-twice](https://github.com/Abhik-Chakraborty/coding-/tree/master/2427-first-letter-to-appear-twice) |
+| [2509-minimize-xor](https://github.com/Abhik-Chakraborty/coding-/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Abhik-Chakraborty/coding-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
@@ -472,6 +473,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Abhik-Chakraborty/coding-/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhik-Chakraborty/coding-/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhik-Chakraborty/coding-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/Abhik-Chakraborty/coding-/tree/master/2509-minimize-xor) |
 ## Trie
 |  |
 | ------- |
